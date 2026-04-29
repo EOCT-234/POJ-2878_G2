@@ -1,0 +1,61 @@
+---
+title: "POJ-2878_G2"
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+## Escuela profesional:
+
+Ingeniería agrónoma
+
+## Curso:
+
+Cultivos Tropicales
+
+## Ciclo:
+
+IX
+
+## Docente:
+
+Vasquez Garcia, Jheiner
+
+## Integrantes:
+
+Maldonado Ticliahuanca Helkin
+
+Ortiz Zabaleta Lesli
+
+Rivera Jimenez Yanet
+
+Santillan Gil Isaac
+
+Tarrillo Reina Mayra Estefanny
+
+## Variedad:
+
+POJ-2878
+
+## Datos de colecta:
+
+Fecha de colecta: 04/04/2026
+
+Distrito: Chachapoyas
+
+Provincia: Chachapoyas
+
+Región: Amazonas
+
+Nombre de productor: Elmer Jiménez Quispe
+
+Altitud:2300 msnm
+
+Edad del cultivo: 4 años
+
+## Descripción de la variedad:
+
+Originaria de Java e introducida en Colombia entre 1930 y 1933, presenta tallos largos y cilíndricos de color amarillo verdoso, diámetro mediano a grueso, hábito de crecimiento semierecto, amplio macollamiento y fácil deshoje, con floración baja a nula y alta resistencia al volcamiento; es resistente al carbón, la roya y el mosaico, aunque susceptible a la raya clorótica y al raquitismo de las socas; se adapta bien a diferentes ecologías y, bajo condiciones óptimas de maduración, es apta para la fabricación de panela en diversas presentaciones, con jugos de fácil clarificación y buena producción de biomasa útil para forraje y alimentación animal.
